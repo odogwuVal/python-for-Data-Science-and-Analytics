@@ -1,0 +1,7 @@
+StudentID,Age,Gender
+Bolanle,4,F
+Emeka,8,M
+Ibinuoluwa,5,F
+Hassan,9,M
+Chioma,4,F
+Uduak,7,M
