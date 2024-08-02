@@ -19,5 +19,5 @@ std_ = np.std(data)
 print("standard deviation of the array is: ", std_)
 
 # Loading CSV files with data
-csv_data = pd.read_csv("data.csv")
+csv_data = pd.read_csv("./data/data.csv")
 print(csv_data.describe())
